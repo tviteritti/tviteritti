@@ -16,5 +16,6 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="max-width:100%;">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="max-width:100%;">
 </div>
-
+<div>
  ![Snake animation](https://github.com/tviteritti/tviteritti/blob/output/github-contribution-grid-snake.svg)
+</div>
